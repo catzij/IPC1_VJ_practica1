@@ -1,0 +1,18 @@
+inicio
+
+	var numero;
+
+	mostrar "ingrese numero de cinco digitos";
+	leer numero;
+
+	si numero es cupicua;
+	
+	mostrar "el numero ingresado es capicua"
+	
+	contario
+	
+	mostra "el numero ingresado no es capicua"
+
+	fin si
+
+fin
