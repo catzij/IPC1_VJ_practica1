@@ -1,0 +1,13 @@
+inicio
+	var numero;
+	var disminucion;
+
+	random (10,50);
+	leer numero;
+
+	disminucion = numero *.85;
+
+	mostrar "numero ingresado "+numero+
+		"numero disminuido en 15%"+disminucion;
+
+fin
