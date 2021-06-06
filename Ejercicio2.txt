@@ -1,0 +1,12 @@
+inicio
+	var pais
+	var capital
+
+	mostrar: "ingrese el nombre del pais " ;
+ 	leer pais;
+
+	mostrar" "ingrese el nombre de la capital";
+	leer capital ;
+
+	mostrar: capital + "es la capital de " + pais ;
+fin
