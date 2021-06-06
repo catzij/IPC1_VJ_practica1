@@ -1,0 +1,14 @@
+inicio
+	var numero;
+	var contador;
+
+	random (0,1000);
+	leer numeo ;
+	
+	si numero es multiplo de 5 y se encuentra entre los 25 primeros numeros
+
+	mostar	"CORRECTO"
+	
+	fin si 
+
+fin
