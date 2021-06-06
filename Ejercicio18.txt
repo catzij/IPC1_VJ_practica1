@@ -1,0 +1,52 @@
+inicio
+
+	var numero;
+	var uno;
+	var dos;
+	var tres;
+	var cuatro;
+	var suma;
+
+	mostrar "ingrese un numero de cuatro digitos maximo";
+	leer numero
+	
+	si numero > 9999
+	
+		mostrar "numero fuera de rango";
+	contrario
+		
+		uno = substr(string,1,1)
+		
+		dos = substr(string,2,1)
+		
+			si dos > 0
+		
+			contrario
+		
+			dos = 0
+		
+			fin si
+
+		tres = substr(string,2,1)
+		
+			si tres > 0
+		
+			contrario
+		
+			tres = 0
+			
+		cuatro = substr(string,2,1)
+		
+			si cuatro > 0
+		
+			contrario
+		
+			cuatro = 0
+			
+			fin si
+
+	suma = uno + dos+tre+cuatro;
+
+	mostrar "suma de los digitos es "+suma;
+
+fin
