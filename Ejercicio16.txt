@@ -1,0 +1,29 @@
+inicio
+	var numero1;
+	var numero2;
+	var numero3;
+
+	mostra "ingrese numero";
+	leer numero1 ;
+
+	mostra "ingrese numero";
+	leer numero2 ;
+
+	mostra "ingrese numero";
+	leer numero3 ;
+
+	si numero1 > numero2 y numero1 > numero3
+	
+		mostrar "numero1 es el mayor";
+
+	si contrario numero2 > numero1 y numero2 > numero3
+	
+		mostrar "numero2 es el mayor";
+
+	si contrario numero3 > numero1 y numero3 > numero2
+	
+		mostrar "numero3 es el mayor";
+
+	fin si 
+
+fin
