@@ -1,0 +1,12 @@
+inicio
+	var celsius;
+	var fahrenheit;
+
+	mostrar "ingrese la temperatura en grados celsius";
+	leer celsius;
+
+	fahrenheit = proceso conversion;
+
+	mostrar "la conversion a fahnernheit es "+fahrenheit;
+
+fin
