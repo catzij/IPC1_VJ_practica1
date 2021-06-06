@@ -1,0 +1,12 @@
+inicio
+	var numero;
+	
+	mostrar: "ingrese un numero entero positivo";
+	leer numero ;
+
+	doble = numero * 2;
+	triple = numeoro * 3;
+
+	mostrar: "el doble del numero es" + doble
+		+"el triple del numero es "+ triple;
+fin
