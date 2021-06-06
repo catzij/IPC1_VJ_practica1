@@ -1,0 +1,18 @@
+inicio
+	var base;
+	var altura;
+	var area;
+	var perimetro;
+
+	mostrar "ingrese la base del rectangulo";
+	leer base;
+
+	mostrar "ingrese la altura del rectangulo";
+	leer altura;
+
+	area = base * altura;
+	perimietro = 2*base + 2*alura;
+
+	mostrar "el area es " +area+"la altura es"+altura;
+
+fin	
