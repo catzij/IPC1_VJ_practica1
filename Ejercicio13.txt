@@ -1,0 +1,16 @@
+inicio
+	var radio;
+	var altura;
+	var volumen;
+	
+	mostrar "ingrese la altura del cilindro";
+	leer altura;
+
+	mostrar "ingrese el radio del cilindro";
+	leer radio;
+
+	volumen = proceso volumen;
+
+	mostrar "el volumen del cilindro es "+volumen;
+
+fin
