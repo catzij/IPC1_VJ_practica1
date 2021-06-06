@@ -1,0 +1,13 @@
+inicio
+	var numero;
+	var aumento;
+	
+	random(0,200);
+	leer numero;
+
+	aumento = numero * 1.3;
+	
+	mostrar "numero ingresado"+numero
+		+"aumento en 30% del numero es igual a"+aumento;
+fin
+	
