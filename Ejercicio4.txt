@@ -1,0 +1,12 @@
+inicio
+	var numero;
+
+	mostrar: "ingrese un numero entero positivo";
+	leer numero;
+
+	cuadrado = numero * numero;
+	cubo = numero * numero * numero ;
+
+	mostrar: "el cuadrado del numero "+ numero+"es"+cuadrado
+		+"el cubo del numero "+numero+"es"+cubo;
+fin
