@@ -1,0 +1,17 @@
+inicio
+	var numero;
+
+	mostrar "ingrese un numero";
+	leer numero;
+
+	si numero > 0
+	
+	mostrar "el numero ingresado es positivo";
+
+	contrario 
+
+	mostrar "el numero ingresado es negativo";
+
+	fin si 
+
+fin
