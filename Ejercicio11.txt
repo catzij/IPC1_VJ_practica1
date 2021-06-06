@@ -1,0 +1,22 @@
+inicio
+	var dato;
+	var yardas;
+	var metros;
+	var pies;
+	var plg;
+	
+	mostrar "ingrese un dato en cm"
+	leer dato;
+
+	yardas = proceso converion a yardas;
+	metros = proceso converion a metros;
+	pies = proceso converions a pies;
+	plg = proceso conversion a plg;
+
+	mostrar "el dato ingresado es"+dato+
+		"y su conversion a yardas es"+yardas+
+		"y su conversion a pies"+pies+
+		"y su conversion a metros"+metros+
+		"y su conversion a plg"+plg+
+
+fin
