@@ -1,0 +1,11 @@
+inicio
+	var numero;
+
+	mostrar "ingrese un numero entero positivo";
+	leer numero;
+
+	siguiente = numero +1;
+
+	mostrar "el numero ingresado es "+numero+
+		"y el numero siguiente es"+siguiente;
+fin
