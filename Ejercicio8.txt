@@ -1,0 +1,14 @@
+inicio
+
+	var numero1 = 10;
+	var numero2 = 20;
+	var numero3 = 30;
+	var promedio;
+
+	promedio = (numero1 + numero2 + numero3)/3;
+
+	mostrar "numeros ingresados "+numero1 +" "+ numero2+" "+ numero3+
+		"el promedio de los numeros es "+promedio;
+
+fin
+
