@@ -1,0 +1,19 @@
+inicio
+	var numero1;
+	var numero2;
+	var division;
+	
+	si numero2 !0 ;
+
+		division = numero1 / numero2;
+	
+		mostrar "es divisible";
+
+	si contrario numero1 !0;
+	
+		division = numero2 / numero1;
+
+		mostrar "es divisible";
+	fin si
+
+fin
